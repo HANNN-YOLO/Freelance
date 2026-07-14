@@ -42,7 +42,7 @@ Provide typing and document-related services, including document formatting, dat
 | ------------------------------------------------ | ----------------------------------------------- | ---------------------------------------------------------------------- |
 | Typing Job Part 1 (Henry Ford: My Life and Work) | Image-to-text transcription and document typing | 🔗 [Typing Job Part 1](https://github.com/HANNN-YOLO/Typing_Job_part1) |
 
-| <!--                                            | Project Name           | Short project description                                              | 🔗 Repository Link | --> |
+<!-- | Project Name | Short project description | 🔗 Repository Link | -->
 
 ### Tech Stack
 
@@ -120,10 +120,10 @@ Implement security-related solutions including cryptography, secure authenticati
 # Contact
 
 GitHub:
-https://github.com/yourusername
+https://github.com/HANNN-YOLO
 
 LinkedIn:
-https://linkedin.com/in/yourprofile
+https://www.linkedin.com/in/reyhan-rafaidhil-04967b401/
 
 Portfolio:
-https://yourportfolio.com
+https://hannn-yolo.github.io/HANNN/
