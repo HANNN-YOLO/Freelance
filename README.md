@@ -30,63 +30,91 @@ Areas include:
 
 ---
 
-# Projects
+# 📑 Typing
 
-| Project      | Category      | Technologies      | Status    | Repository |
-| ------------ | ------------- | ----------------- | --------- | ---------- |
-| Project Name | Mobile App    | Flutter, Firebase | Completed | 🔗 Link    |
-| Project Name | Backend       | Node.js, Express  | Completed | 🔗 Link    |
-| Project Name | Data Analysis | Python, Excel     | Completed | 🔗 Link    |
-| Project Name | Cybersecurity | Python            | Completed | 🔗 Link    |
+## About
 
----
+Provide typing and document-related services, including document formatting, data transcription, document conversion, and content organization. Projects are delivered with accuracy, consistency, and attention to detail.
 
-# Project Template
+### Projects
 
-## Project Title
+| Project                                         | Description            | Repository                                                             |
+| ----------------------------------------------- | ---------------------- | ---------------------------------------------------------------------- | ------------------ | --- |
+| Typing Job Part 1 (Henry Ford My Life and Work) | Converty Image to Text | 🔗 [Typing Job Part 1](https://github.com/HANNN-YOLO/Typing_Job_part1) |
+| <!--                                            | Project Name           | Short project description                                              | 🔗 Repository Link | --> |
 
-**Category**
+### Tech Stack
 
-Mobile Development
-
-**Client**
-
-Personal / Company / NDA
-
-**Duration**
-
-Month Year
-
-**Technologies**
-
-- Flutter
-- Firebase
-- REST API
-
-**Description**
-
-Short explanation about the project.
-
-**Repository**
-
-https://github.com/username/project
+- Microsoft Word
+- PDF Tools
 
 ---
 
-# Tech Stack
+<!-- # 📊 Data Analysis
+
+## About
+
+Perform data cleaning, transformation, visualization, and reporting to support business insights and decision-making.
+
+### Projects
+
+| Project | Description | Repository |
+|----------|-------------|------------|
+| Project Name | Dashboard development | 🔗 Repository Link |
+| Project Name | Sales analysis | 🔗 Repository Link |
+
+### Tech Stack
+
+- Excel
+- SQL
+- Python
+- Pandas
+- Power BI
+- Looker Studio
+
+--- -->
+
+<!-- # 📱 Mobile Development
+
+## About
+
+Develop cross-platform mobile applications with modern architecture and backend integration.
+
+### Projects
+
+| Project | Description | Repository |
+|----------|-------------|------------|
+| Project Name | Mobile application | 🔗 Repository Link |
+
+### Tech Stack
 
 - Flutter
 - Dart
 - Firebase
 - Supabase
-- Python
-- SQL
-- Git
-- Docker
-- Linux
-- Node.js
+- REST API
 
----
+--- -->
+
+<!-- # 🔐 Cybersecurity
+
+## About
+
+Implement security-related solutions including cryptography, secure authentication, and security automation.
+
+### Projects
+
+| Project | Description | Repository |
+|----------|-------------|------------|
+| Project Name | Digital Signature using ECDSA | 🔗 Repository Link |
+
+### Tech Stack
+
+- Python
+- Cryptography
+- OpenSSL
+- Linux
+- Git -->
 
 # Contact
 
