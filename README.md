@@ -38,9 +38,10 @@ Provide typing and document-related services, including document formatting, dat
 
 ### Projects
 
-| Project                                         | Description            | Repository                                                             |
-| ----------------------------------------------- | ---------------------- | ---------------------------------------------------------------------- | ------------------ | --- |
-| Typing Job Part 1 (Henry Ford My Life and Work) | Converty Image to Text | 🔗 [Typing Job Part 1](https://github.com/HANNN-YOLO/Typing_Job_part1) |
+| Project                                          | Description                                     | Repository                                                             |
+| ------------------------------------------------ | ----------------------------------------------- | ---------------------------------------------------------------------- |
+| Typing Job Part 1 (Henry Ford: My Life and Work) | Image-to-text transcription and document typing | 🔗 [Typing Job Part 1](https://github.com/HANNN-YOLO/Typing_Job_part1) |
+
 | <!--                                            | Project Name           | Short project description                                              | 🔗 Repository Link | --> |
 
 ### Tech Stack
